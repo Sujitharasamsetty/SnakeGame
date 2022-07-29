@@ -1,5 +1,7 @@
 # SnakeGame Using Python
 
+## Project Prerequisites
+
 1.To build the snake game project we used the turtle module, random module, time module, and concept of python.
 
 2.Turtle module gives us a feature to draw on a drawing board
