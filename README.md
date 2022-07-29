@@ -1,12 +1,12 @@
 # SnakeGame Using Python
 
-To build the snake game project we used the turtle module, random module, time module, and concept of python.
+1.To build the snake game project we used the turtle module, random module, time module, and concept of python.
 
-Turtle module gives us a feature to draw on a drawing board
+1.Turtle module gives us a feature to draw on a drawing board
 
-Random module will be used to generate random numbers
+1.Random module will be used to generate random numbers
 
-Time module is an inbuilt module in python. It provides the functionality of time.
+1.Time module is an inbuilt module in python. It provides the functionality of time.
 
 ## Below Image is GUI Of SnakeGame
 
